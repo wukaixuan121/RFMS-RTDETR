@@ -1,4 +1,4 @@
-# RFMS-RTDET
+# RFMS-RTDET:Enhanced Infrared Drone Detection via Multi-Scale Feature Integration and Large Receptive Fields
 
 
 环境配置
