@@ -2,6 +2,8 @@
 
 
 环境配置
+conda create -n RFMS-RTDETR python=3.11
+conda activate RFMS-RTDETR
 pip install -r requirements.txt  
 训练
 python train.py  
