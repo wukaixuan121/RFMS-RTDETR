@@ -9,3 +9,4 @@ pip install -r requirements.txt
 python train.py  
 验证
 python val.py
+数据集形式为YOLO格式
